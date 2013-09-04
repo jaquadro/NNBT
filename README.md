@@ -9,6 +9,12 @@ NNBT is a second generation NBT library for .NET/Mono designed especially for th
   * Serialization of classes to and from NBT stream.
   * Extensibility via new or custom tag types.
   
-NNBT is a rewrite and extension of the NBT classes in [Substrate][1].  If your intention is to write Minecraft tooling that needs to access data in the traditional .dat/.mcr/.mca files, you should stick with the Substrate library.
+NNBT is a rewrite and extension of the NBT classes in [Substrate](1).  If your intention is to write Minecraft tooling that needs to access data in the traditional .dat/.mcr/.mca files, you should stick with the Substrate library.
 
-[1]https://github.com/jaquadro/Substrate
+Resources
+---------
+
+  * [NBT Specification](2)
+
+[1]: https://github.com/jaquadro/Substrate
+[2]: http://web.archive.org/web/20110723210920/http://www.minecraft.net/docs/NBT.txt
